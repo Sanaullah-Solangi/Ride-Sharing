@@ -117,8 +117,7 @@
 
 @media (width <= 950px) {
   /*!=========== header responsiveness ===========  */
-  .header{
-    border:1px solid red;
+ 
   
   .header .logo {
     width: 7rem;
