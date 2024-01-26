@@ -454,10 +454,11 @@ p {
   right: 3%;
 }
 .drop-up a i {
-  width: 4rem;
-  height: 4rem;
+  width: 2rem;
+  height: 2rem;
   color: #fff;
   display: flex;
+  background-color: var(--mainColor);
   justify-content: center;
   align-items: center;
   animation-name: border-animation;
