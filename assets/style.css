@@ -458,6 +458,7 @@ p {
   height: 4rem;
   color: #fff;
   display: flex;
+  background-color:var(--mainColor);
   justify-content: center;
   align-items: center;
   animation-name: border-animation;
